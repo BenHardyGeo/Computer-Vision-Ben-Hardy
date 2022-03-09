@@ -3,7 +3,7 @@ Keywords: Computer Vision, Convolutional Neural Network, Classification, Supervi
 
 This notebook applies computer vision to classify seedling images into 12 different seedling types.
 
-This notebook was prepared for the eighth project of the Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications from the McCombs School of Business at The University of Texas. Colour images were provided as tensors in a .npy (numpy file), while the labels were provided in a .csv file. The notebook was created and run in Google Colab but needed to be submitted as a jupyter notebook file.
+This notebook was prepared for the eighth project of the Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications from the McCombs School of Business at The University of Texas. Colour images were provided as tensors in a .npy (numpy file), while the labels were provided in a .csv file. The notebook was created and run in Google Colab but needed to be submitted as a jupyter notebook file. Unfortunately the input data are too large to upload to github. However the notebook appears to be viewing just fine.
 
 The notebook contains useful code for viewing the images. It also contains code for finding an average image per seedling type, it wasn’t particularly useful in this case but might be useful to someone reading this.
 
